@@ -1,0 +1,18 @@
+                                                                                           
+ البريد الالكتروني:
+elbrakaaya@gmail.com
+
+اسم الطالبه:
+أيه سعيدمحمد سليمان توفيق الجزار
+
+رقم السكشن:
+سكشن2
+
+الللينك للموقع:
+https://forasna.com/a/%D9%88%D8%B8%D8%A7%D8%A6%D9%81-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%89-%D9%85%D8%B5%D8%B1?a%5Bref%5D=bpnav={page_num}'
+
+البيانات: 
+(job_title,company_name,company_location,Reqirimentjob,date_job)
+
+طباعه البيانات :
+Print in pycharm
